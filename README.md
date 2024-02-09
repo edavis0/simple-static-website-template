@@ -71,6 +71,7 @@ simple-static-website-template
     │
     └───blog
         │ blog.html
+        │
         └───YYYY
             │ blog1.html
             │ blog2.html
